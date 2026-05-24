@@ -26,7 +26,7 @@ body{
 .left{
     width: 50%;
     height: 100%;
-    background: #469af4;
+    background: #26A5FF;
     display: flex;
     justify-content: center;
 }
@@ -71,7 +71,7 @@ body{
 }
 .right form button{
     height: 40px;
-    background: #469af4;
+    background: #26A5FF;
     color: #fff;
     font-size: 16px;
     border: none;
@@ -96,7 +96,7 @@ body{
     margin-top: 30px;
 }
 .right form p a{
-    color: #469af4;
+    color: #26A5FF;
     text-decoration: none;
 }
 .right form p a:hover{
